@@ -1,0 +1,7 @@
+go 1.21
+
+use (
+    // ./lesson1/src/internal
+    // ./lesson2/src/internal
+    ../../..
+)
