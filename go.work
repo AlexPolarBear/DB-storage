@@ -1,7 +1,3 @@
-go 1.21
+go 1.21.3
 
-use (
-    // ./lesson1/src/internal
-    // ./lesson2/src/internal
-    ../../..
-)
+use ./lesson3
